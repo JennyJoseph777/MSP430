@@ -1,2 +1,2 @@
 # MSP430
-Air Conditioner
+Air Conditioner on low power mode
